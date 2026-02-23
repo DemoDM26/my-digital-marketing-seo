@@ -1,3 +1,2 @@
-# ritik singh rawat
-This is my Digital Marketing SEO practice project.
+ritik rawat
 index.html

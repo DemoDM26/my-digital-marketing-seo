@@ -1,2 +1,1 @@
-ritik rawat
-index.html
+ritikrwt → index.html
